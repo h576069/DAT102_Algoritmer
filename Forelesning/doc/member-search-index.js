@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"no.hvl.dat102","c":"IListe","l":"fins(int)"},{"p":"no.hvl.dat102","c":"IListe","l":"leggTil(int)"}]

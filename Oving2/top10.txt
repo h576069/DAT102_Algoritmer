@@ -1,0 +1,12 @@
+11
+11#Quentin Tarantino#Pulp Fiction#1994#DRAMA#Miramax
+10#David Fincher#Se7en#1995#DRAMA#New Line Cinema
+9#Lana Wachowski#The Matrix#1999#SCIFI#Warner Bros
+8#Peter Jackson#The Lord of the Rings: Fellowship#2001#DRAMA#New Line Cinema
+7#Sidney Lumet#12 angry men#1957#DRAMA#Orion-Nova
+6#Christopher Nolan#The Dark Knight#2008#ACTION#Warner Bros
+5#David Fincher#Fight Club#1999#DRAMA#Twentieth Century Fox
+4#Christopher Nolan#Inception#2010#ACTION#Legendary
+3#Francis Ford Coppola#The Godfather: II#1974#DRAMA#paramount
+2#Frank Darabont#The Shawshank Redemption#1994#DRAMA#columbia
+1#Francis Ford Coppola#The Godfather#1972#DRAMA#paramount
